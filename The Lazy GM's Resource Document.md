@@ -54,7 +54,7 @@ The Eight Steps of Lazy RPG Prep
 
 For a typical game session, the Lazy RPG Prep checklist looks like this:
 
-*   Review the characters
+*   キャラクターを見直す
 *   Create a strong start
 *   Outline potential scenes
 *   Define secrets and clues
